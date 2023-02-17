@@ -1,0 +1,16 @@
+{
+    "name": "Travet budget",
+    "show_name": "Travel budget",
+    "icons": [
+        {
+            "src": "192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "backgroud_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portraint"
+}
